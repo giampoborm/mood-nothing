@@ -1,16 +1,5 @@
 {
   "sections": {
-    "rich_text": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "7de3b9b8-91e0-4e10-af4f-25b554d77271": {
       "type": "featured-collection",
       "settings": {
@@ -21,7 +10,7 @@
         "description_style": "body",
         "collection": "frontpage",
         "products_to_show": 2,
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -67,7 +56,6 @@
     }
   },
   "order": [
-    "rich_text",
     "7de3b9b8-91e0-4e10-af4f-25b554d77271",
     "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669"
   ]
