@@ -73,7 +73,7 @@ details[open].menu-opening > .menu-drawer__submenu {
   visibility: hidden; /* hide menus from screen readers when hidden by submenu */
 }
 
-@media screen and (max-width: 150px) {
+@media screen and (max-width: 750px) {
   .menu-drawer {
     width: 40rem;
   }
