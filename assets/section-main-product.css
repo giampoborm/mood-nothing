@@ -31,6 +31,7 @@
   }
 
   .product__info-wrapper {
+    margin-top: 10rem;
     padding: 0 0 0 5rem;
   }
 
@@ -367,7 +368,7 @@ a.product__text {
 
 .product__title {
   word-break: break-word;
-  margin-bottom: -2rem;
+  margin-bottom: -1rem;
 }
 
 .product__title > * {
