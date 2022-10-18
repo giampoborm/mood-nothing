@@ -22,7 +22,7 @@
   .product--columns .product__info-container--sticky {
     display: block;
     position: sticky;
-    top: 0rem;
+    top: 3rem;
     z-index: 2;
   }
 
@@ -31,23 +31,23 @@
   }
 
   .product__info-wrapper {
-    padding: 0 0 0 0rem;
+    padding: 0 0 0 5rem;
   }
 
   .product__info-wrapper--extra-padding {
-    padding: 0 0 0 0rem;
+    padding: 0 0 0 8rem;
   }
 
   .product--right .product__info-wrapper {
-    padding: 0 0rem 0 0;
+    padding: 0 5rem 0 0;
   }
 
   .product--right .product__info-wrapper--extra-padding {
-    padding: 0 0rem 0 0;
+    padding: 0 8rem 0 0;
   }
 
   .product--right .product__media-list {
-    margin-bottom: 0rem;
+    margin-bottom: 2rem;
   }
 
   .product__media-container .slider-buttons {
@@ -89,7 +89,7 @@
 
 .shopify-payment-button__button {
   font-family: inherit;
-  min-height: 4.6rem;
+  min-height: 3rem;
 }
 
 .shopify-payment-button__button [role="button"].focused,
