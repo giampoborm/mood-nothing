@@ -30,7 +30,7 @@
     padding-right: var(--media-shadow-horizontal-offset);
   }
 
-  .product__info-container {
+  .product__info-wrapper {
     margin-top: -50rem;
   }
 
