@@ -99,7 +99,6 @@
 .shopify-payment-button__button {
   font-family: inherit;
   min-height: 4.6rem;
-  display: none;
 }
 
 .shopify-payment-button__button [role="button"].focused,
@@ -157,8 +156,8 @@
 
 .product-form {
   display: block;
-  width: 30%;
-  height: 30%;
+  width: 80%;
+  height: 80%;
 }
 
 .product-form__error-message-wrapper:not([hidden]) {
@@ -181,7 +180,7 @@
   flex: 0 0 100%;
   padding: 0;
   margin: 0 0 1.2rem 0;
-  max-width: 30rem;
+  max-width: 37rem;
   min-width: fit-content;
   border: none;
 }
@@ -214,11 +213,11 @@ fieldset.product-form__input .form__label {
 
 .product-form__input input[type="radio"] + label {
   border: var(--variant-pills-border-width) solid
-    rgba(var(--color-background), var(--variant-pills-border-opacity));
-  background-color: rgb(var(--color-foreground));
-  color: rgba(var(--color-background));
+    rgba(var(--color-foreground), var(--variant-pills-border-opacity));
+  background-color: rgb(var(--color-background));
+  color: rgba(var(--color-foreground));
   border-radius: var(--variant-pills-radius);
-  color: rgb(var(--color-background));
+  color: rgb(var(--color-foreground));
   display: inline-block;
   margin: 0.7rem 0.5rem 0.2rem 0;
   padding: 1rem 2rem;
@@ -277,8 +276,8 @@ fieldset.product-form__input .form__label {
   color: rgba(var(--color-background), 0.6);
 }
 .product-form__input input[type="radio"]:focus-visible + label {
-  box-shadow: 0 0 0 0.3rem rgb(var(--color-foreground)),
-    0 0 0 0.5rem rgba(var(--color-background), 0.55);
+  box-shadow: 0 0 0 0.3rem rgb(var(--color-background)),
+    0 0 0 0.5rem rgba(var(--color-foreground), 0.55);
 }
 
 /* Fallback */
@@ -297,7 +296,7 @@ fieldset.product-form__input .form__label {
 }
 
 .product-form__input .select {
-  max-width: 15rem;
+  max-width: 25rem;
 }
 
 .product-form__submit {
