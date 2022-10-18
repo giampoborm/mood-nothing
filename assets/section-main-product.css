@@ -354,7 +354,6 @@ a.product__text {
 
 .product__title {
   word-break: break-word;
-  color: blue;
   margin-bottom: 1.5rem;
 }
 
@@ -371,7 +370,7 @@ a.product__text {
 }
 
 .product__text.caption-with-letter-spacing + .product__title {
-  margin-top: 0;
+  margin-top: -50rem;
 }
 
 .product__accordion .accordion__content {
