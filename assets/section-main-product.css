@@ -335,10 +335,6 @@ fieldset.product-form__input .form__label {
 
 /* Product info */
 
-.product__info-container {
-  border: 4px solid black;
-}
-
 .product__info-container > * + * {
   margin: 1.5rem 0;
 }
@@ -370,7 +366,7 @@ a.product__text {
 
 .product__title {
   word-break: break-word;
-  margin-bottom: 1.5rem;
+  margin-bottom: -15rem;
   border: 4px solid brown;
 }
 
@@ -400,6 +396,10 @@ a.product__text {
 
 .product .price__container {
   margin-bottom: 0.5rem;
+}
+
+.price__container {
+  border: 4px solid orange;
 }
 
 .product .price dl {
