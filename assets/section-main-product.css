@@ -31,7 +31,7 @@
   }
 
   .product__info-wrapper {
-    margin-top: 3rem;
+    margin-top: 1.5rem;
     padding: 0 0 0 5rem;
   }
 
@@ -490,7 +490,7 @@ a.product__text {
 .product--no-media .product-form__quantity,
 .product--no-media .product-form__input--dropdown {
   flex-direction: column;
-  max-width: 100%;
+  max-width: 10%;
 }
 
 .product-form__quantity {
