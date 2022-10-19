@@ -483,14 +483,14 @@ a.product__text {
 }
 
 .product--no-media .product-form > .form {
-  max-width: 30rem;
+  max-width: 10rem;
   width: 100%;
 }
 
 .product--no-media .product-form__quantity,
 .product--no-media .product-form__input--dropdown {
   flex-direction: column;
-  max-width: 10%;
+  max-width: 100%;
 }
 
 .product-form__quantity {
