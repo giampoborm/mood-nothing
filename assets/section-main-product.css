@@ -179,7 +179,7 @@
 .product-form__input {
   flex: 0 0 100%;
   padding: 0;
-  margin: 0 0 1.2rem 0;
+  margin: 0 0 0.2rem 0;
   max-width: 37rem;
   min-width: fit-content;
   border: none;
@@ -188,6 +188,10 @@
 variant-radios,
 variant-selects {
   display: block;
+}
+
+.product-form__input--dropdown {
+  margin-bottom: 3rem;
 }
 
 .product-form__input .form__label {
