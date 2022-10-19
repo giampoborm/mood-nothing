@@ -484,7 +484,7 @@ a.product__text {
 
 .product--no-media .product-form > .form {
   max-width: 30rem;
-  width: 10%;
+  width: 100%;
 }
 
 .product--no-media .product-form__quantity,
@@ -511,7 +511,7 @@ a.product__text {
 }
 
 .product-form__buttons {
-  max-width: 44rem;
+  max-width: 10rem;
 }
 
 .product--no-media .product__info-container > modal-opener {
