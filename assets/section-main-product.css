@@ -365,7 +365,7 @@ a.product__text {
 }
 
 h1 {
-  line-height: 0.5rem;
+  line-height: 2rem;
 }
 .product__text.caption-with-letter-spacing {
   text-transform: uppercase;
