@@ -1680,9 +1680,7 @@ details[open] > .share-button__fallback {
 
 /* component-form */
 
-.select__select {
-  height: 3rem;
-}
+
 .field__input,
 .select__select,
 .customer .field input,
@@ -1701,6 +1699,10 @@ details[open] > .share-button__fallback {
   min-width: calc(7rem + (var(--inputs-border-width) * 2));
   position: relative;
   border: 0;
+}
+
+.select__select {
+  height: 3rem;
 }
 
 .field:before,
