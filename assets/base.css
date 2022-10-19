@@ -954,7 +954,7 @@ summary::-webkit-details-marker {
   }
 
   .title-wrapper-with-link {
-    align-items: center;
+    align-items: left;
   }
 
   .title-wrapper-with-link .title {
@@ -2488,7 +2488,7 @@ menu-drawer + .header__search {
   display: inline-flex;
 }
 
-@media screen and (min-width: 1px) {
+@media screen and (min-width: 990px) {
   .header:not(.header--top-center) * > .header__search,
   .header--top-center > .header__search {
     display: inline-flex;
@@ -2634,7 +2634,7 @@ details[open] > .header__submenu {
 .header__inline-menu {
   margin-left: -1.2rem;
   grid-area: navigation;
-  display: block;
+  display: none;
 }
 
 .header--top-center .header__inline-menu,
