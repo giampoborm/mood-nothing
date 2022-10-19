@@ -133,7 +133,7 @@
           "logo": "shopify:\/\/shop_images\/logo.png",
           "logo_width": 150,
           "logo_position": "top-center",
-          "menu": "",
+          "menu": "cacata",
           "menu_type_desktop": "dropdown",
           "show_line_separator": false,
           "enable_sticky_header": false,
