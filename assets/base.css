@@ -1679,6 +1679,8 @@ details[open] > .share-button__fallback {
 }
 
 /* component-form */
+
+
 .field__input,
 .select__select,
 .customer .field input,
@@ -1699,7 +1701,7 @@ details[open] > .share-button__fallback {
   border: 0;
 }
 
-.select {
+.select__select {
   height: 3rem;
 }
 
