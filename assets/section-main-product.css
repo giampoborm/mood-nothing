@@ -483,8 +483,8 @@ a.product__text {
 }
 
 .product--no-media .product-form > .form {
-  max-width: 10rem;
-  width: 100%;
+  max-width: 30rem;
+  width: 10%;
 }
 
 .product--no-media .product-form__quantity,
