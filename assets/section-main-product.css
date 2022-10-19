@@ -499,7 +499,7 @@ a.product__text {
 
 .product-form__input--dropdown {
   max-width: 15rem;
-  max-height: 1.5rem;
+  max-height: 0.5rem;
 }
 
 .product-form__quantity {
