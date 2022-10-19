@@ -374,7 +374,7 @@ a.product__text {
 .product__title {
   word-break: break-word;
   margin-bottom: -2rem;
-  font-size: 150%;
+  font-size: 3rem;
 }
 
 .product__title > * {
@@ -431,7 +431,7 @@ a.product__text {
   }
 
   .product__info-container .price--on-sale .price-item--regular {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
   }
 
   .product__info-container > *:first-child {
