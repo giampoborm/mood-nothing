@@ -1699,10 +1699,6 @@ details[open] > .share-button__fallback {
   border: 0;
 }
 
-.select {
-  height: 3rem;
-}
-
 .field:before,
 .select:before,
 .customer .field:before,
