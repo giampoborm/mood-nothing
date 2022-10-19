@@ -465,6 +465,10 @@ a.product__text {
   max-width: 100%;
 }
 
+.share-button {
+  margin-top: -3rem;
+}
+
 .product--no-media fieldset.product-form__input,
 .product--no-media .product-form__quantity,
 .product--no-media .product-form__input--dropdown,
@@ -493,6 +497,12 @@ a.product__text {
   max-width: 100%;
 }
 
+.product-form__input--dropdown {
+  margin-bottom: -3rem;
+  max-width: 15rem;
+  max-height: 3rem;
+}
+
 .product-form__quantity {
   display: none;
 }
@@ -511,7 +521,7 @@ a.product__text {
 }
 
 .product-form__buttons {
-  max-width: 10rem;
+  max-width: 40rem;
 }
 
 .product--no-media .product__info-container > modal-opener {
