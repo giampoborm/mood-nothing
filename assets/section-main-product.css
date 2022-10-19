@@ -366,12 +366,12 @@ a.product__text {
 
 .product__text.caption-with-letter-spacing {
   text-transform: uppercase;
+  line-height: 0.5rem;
 }
 
 .product__title {
   word-break: break-word;
   margin-bottom: -2rem;
-  line-height: 100px;
 }
 
 .product__title > * {
