@@ -374,7 +374,6 @@ a.product__text {
 .product__title {
   word-break: break-word;
   margin-bottom: -2rem;
-  font-size: 3rem;
 }
 
 .product__title > * {
@@ -498,8 +497,8 @@ a.product__text {
 }
 
 .product-form__input--dropdown {
-  max-width: 15rem;
-  max-height: 0.5rem;
+  max-width: 5rem;
+  max-height: 0.3rem;
 }
 
 .product-form__quantity {
