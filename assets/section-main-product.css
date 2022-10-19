@@ -371,7 +371,7 @@ a.product__text {
 .product__title {
   word-break: break-word;
   margin-bottom: -2rem;
-  line-height: 0.5em;
+  line-height: 100px;
 }
 
 .product__title > * {
