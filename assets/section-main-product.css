@@ -497,7 +497,8 @@ a.product__text {
 }
 
 .product-form__input--dropdown {
-  max-width: 10rem;
+  max-width: 7.5rem;
+  max-height: 0.3rem;
 }
 
 .product-form__quantity {
