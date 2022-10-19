@@ -2634,7 +2634,7 @@ details[open] > .header__submenu {
 .header__inline-menu {
   margin-left: -1.2rem;
   grid-area: navigation;
-  display: none;
+  display: block;
 }
 
 .header--top-center .header__inline-menu,
