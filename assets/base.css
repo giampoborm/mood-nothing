@@ -1680,7 +1680,6 @@ details[open] > .share-button__fallback {
 
 /* component-form */
 
-
 .field__input,
 .select__select,
 .customer .field input,
@@ -2286,7 +2285,7 @@ input[type="checkbox"] {
   align-items: center;
 }
 
-@media screen and (min-width: 990px) {
+@media screen and (min-width: 1px) {
   .header--top-left,
   .header--middle-left:not(.header--has-menu) {
     grid-template-areas:
