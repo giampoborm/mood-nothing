@@ -12,7 +12,7 @@
     "colors_background_2": "#f3f3f3",
     "gradient_background_2": "",
     "type_header_font": "swiss_721_rounded_n7",
-    "heading_scale": 100,
+    "heading_scale": 120,
     "type_body_font": "helvetica_n4",
     "body_scale": 100,
     "page_width": 1200,
@@ -117,6 +117,7 @@
     "predictive_search_enabled": false,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/SMILE.png",
     "currency_code_enabled": true,
     "cart_type": "page",
     "sections": {
@@ -160,7 +161,7 @@
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "S*** my F****** C****",
           "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": true,

@@ -191,7 +191,11 @@ variant-selects {
 }
 
 .product-form__input--dropdown {
+<<<<<<< HEAD
   margin-bottom: 4rem;
+=======
+  margin-bottom: 5rem;
+>>>>>>> a2023d9eaf3956b705626ef36d4b06e6cc3f987f
 }
 
 .product-form__input .form__label {
@@ -374,7 +378,6 @@ a.product__text {
 .product__title {
   word-break: break-word;
   margin-bottom: -2rem;
-  font-size: 150%;
 }
 
 .product__title > * {
@@ -431,7 +434,7 @@ a.product__text {
   }
 
   .product__info-container .price--on-sale .price-item--regular {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
   }
 
   .product__info-container > *:first-child {
@@ -498,8 +501,8 @@ a.product__text {
 }
 
 .product-form__input--dropdown {
-  max-width: 15rem;
-  max-height: 1.5rem;
+  max-width: 14rem;
+  max-height: 0.3rem;
 }
 
 .product-form__quantity {
