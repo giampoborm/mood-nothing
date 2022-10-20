@@ -2672,15 +2672,15 @@ details[open] > .header__submenu {
   color: rgba(var(--color-foreground), 0.75);
 }
 
-.header__menu-item:hover {
+/* .header__menu-item:hover {
   color: rgb(var(--color-foreground));
-}
+} */
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
 }
 
-.header__menu-item:hover /* span */ {
+.header__menu-item:hover span {
   text-decoration: underline;
   text-underline-offset: 0.3rem;
 }
