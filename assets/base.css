@@ -2684,6 +2684,23 @@ details[open] > .header__submenu {
   text-decoration: underline;
   text-underline-offset: 0.3rem;
 }
+.pipino {
+  text-decoration: none;
+  color: rgba(var(--color-foreground), 0.75);
+}
+
+.pipino:hover {
+  color: rgb(var(--color-foreground));
+}
+
+.pipino span {
+  transition: text-decoration var(--duration-short) ease;
+}
+
+.pipino:hover span {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
 
 details[open] > .header__menu-item {
   text-decoration: underline;
