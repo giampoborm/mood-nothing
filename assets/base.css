@@ -1,3 +1,7 @@
+body {
+  border: 4px solid fuchsia;
+}
+
 /* Color custom properties */
 
 :root,
