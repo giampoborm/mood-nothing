@@ -2666,13 +2666,13 @@ details[open] > .header__submenu {
   padding: 0 1rem;
 }
 
-.header__menu-item .icon-cart .icon-cart-empty {
+.header__menu-item {
   padding: 1.2rem;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
 }
 
-.header__menu-item:hover .icon-cart:hover .icon-cart-empty:hover {
+.header__menu-item:hover {
   color: rgb(var(--color-foreground));
 }
 
