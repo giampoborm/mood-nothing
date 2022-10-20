@@ -628,7 +628,7 @@ h6:empty {
   display: none;
 }
 
-/* .link,
+.link,
 .customer a {
   cursor: pointer;
   display: inline-block;
@@ -640,7 +640,7 @@ h6:empty {
   background-color: transparent;
   font-size: 1.4rem;
   font-family: inherit;
-} */
+}
 
 .link--text {
   color: rgb(var(--color-foreground));
@@ -729,20 +729,20 @@ details > * {
   --duration-long: 500ms;
 }
 
-/* .underlined-link,
+.underlined-link,
 .customer a {
   color: rgba(var(--color-link), var(--alpha-link));
   text-underline-offset: 0.3rem;
   text-decoration-thickness: 0.1rem;
   transition: text-decoration-thickness ease 100ms;
-} */
+}
 
-/* .underlined-link:hover,
+.underlined-link:hover,
 .customer a:hover {
   color: rgb(var(--color-link));
   text-decoration-thickness: 0.2rem;
 }
- */
+
 .icon-arrow {
   width: 1.5rem;
 }
