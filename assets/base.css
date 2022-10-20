@@ -646,7 +646,7 @@ h6:empty {
   color: rgb(var(--color-foreground));
 }
 
-.link--text:hover {
+.link--text:hover .cart-text .cart-text-full {
   color: rgba(var(--color-foreground), 0.75);
 }
 

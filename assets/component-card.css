@@ -230,6 +230,7 @@
 }
 
 @media screen and (min-width: 1px) {
+  /* roba che hai tolto ricorda!! se non va hover cercare hover non va */
   .card .media.media--hover-effect > img:only-child,
   .card-wrapper .media.media--hover-effect > img:only-child {
     transition: transform var(--duration-long) ease;
