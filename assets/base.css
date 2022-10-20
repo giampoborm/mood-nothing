@@ -2636,7 +2636,7 @@ details[open] > .header__submenu {
   grid-area: left-icon;
 }
 
-.header--top-center .header__inline-menu,
+.header--top-center /* .header__inline-menu */,
 .header--top-center .header__heading-link {
   margin-left: 0;
 }
@@ -2648,7 +2648,7 @@ details[open] > .header__submenu {
   grid-area: left-icons;
 }
  */
-.header--top-center .header__inline-menu {
+.header--top-center /* .header__inline-menu */ {
   justify-self: center;
 }
 
