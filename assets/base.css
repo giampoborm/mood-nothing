@@ -642,7 +642,7 @@ h6:empty {
   font-family: inherit;
 }
 
-.link--text {
+.link--text .cart-text .cart-text-full {
   color: rgb(var(--color-foreground));
 }
 
