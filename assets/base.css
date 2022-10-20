@@ -642,11 +642,11 @@ h6:empty {
   font-family: inherit;
 }
 
-.link--text .cart-text .cart-text-full {
+.link--text {
   color: rgb(var(--color-foreground));
 }
 
-.link--text:hover .cart-text .cart-text-full {
+.link--text:hover {
   color: rgba(var(--color-foreground), 0.75);
 }
 
@@ -738,7 +738,7 @@ details > * {
 }
 
 .underlined-link:hover,
-.customer a:hover .cart-text .cart-text-full {
+.customer a:hover {
   color: rgb(var(--color-link));
   text-decoration-thickness: 0.2rem;
 }
@@ -2666,13 +2666,13 @@ details[open] > .header__submenu {
   padding: 0 1rem;
 }
 
-.header__menu-item {
+.header__menu-item .icon-cart .icon-cart-empty {
   padding: 1.2rem;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
 }
 
-.header__menu-item:hover {
+.header__menu-item:hover .icon-cart:hover .icon-cart-empty:hover {
   color: rgb(var(--color-foreground));
 }
 
