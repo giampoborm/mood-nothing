@@ -642,14 +642,6 @@ h6:empty {
   font-family: inherit;
 }
 
-.cart-text .cart-text-full {
-  text-decoration: none;
-}
-
-.cart-text:hover .cart-text-full:hover {
-  text-decoration: underline;
-}
-
 .link--text {
   color: rgb(var(--color-foreground));
 }
@@ -2426,8 +2418,7 @@ input[type="checkbox"] {
   content: none;
 }
 
-/* .header__icon:hover */
-.icon,
+.header__icon:hover .icon,
 .modal__close-button:hover .icon {
   transform: scale(1.07);
 }
