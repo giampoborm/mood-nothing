@@ -737,12 +737,12 @@ details > * {
   transition: text-decoration-thickness ease 100ms;
 }
 
-.underlined-link:hover,
+/* .underlined-link:hover,
 .customer a:hover {
   color: rgb(var(--color-link));
   text-decoration-thickness: 0.2rem;
 }
-
+ */
 .icon-arrow {
   width: 1.5rem;
 }
