@@ -2633,7 +2633,7 @@ details[open] > .header__submenu {
 /* Header menu */
 .header__inline-menu {
   margin-left: -1.2rem;
-  grid-area: heading;
+  grid-area: left-icon;
 }
 
 .header--top-center .header__inline-menu,
