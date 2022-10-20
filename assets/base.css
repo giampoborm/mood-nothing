@@ -2666,15 +2666,15 @@ details[open] > .header__submenu {
   padding: 0 1rem;
 }
 
-.header__menu-item {
+.header__menu-item .header__icon--cart {
   padding: 1.2rem;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
 }
 
-/* .header__menu-item:hover {
+.header__menu-item:hover .header__icon--cart {
   color: rgb(var(--color-foreground));
-} */
+}
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
