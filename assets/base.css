@@ -2404,6 +2404,7 @@ input[type="checkbox"] {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
 
 .header__icon {
@@ -2702,11 +2703,11 @@ details[open] > .header__submenu {
   text-underline-offset: 0.3rem;
 }
 
-details[open] > .header__menu-item {
+details[open] > .header__menu-item .pipino {
   text-decoration: underline;
 }
 
-details[open]:hover > .header__menu-item {
+details[open]:hover > .header__menu-item .pipino {
   text-decoration-thickness: 0.2rem;
 }
 
@@ -2721,7 +2722,7 @@ details[open] > .header__menu-item .icon-caret {
   text-underline-offset: 0.3rem;
 }
 
-.header__menu-item:hover .header__active-menu-item {
+.header__menu-item:hover .header__active-menu-item .pipino:hover {
   text-decoration-thickness: 0.2rem;
 }
 
