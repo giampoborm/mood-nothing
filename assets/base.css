@@ -2666,6 +2666,14 @@ details[open] > .header__submenu {
 }
 /* } */
 
+a#cart-icon-bubble {
+  text-decoration: none;
+}
+
+a#cart-icon-bubble:hover {
+  text-decoration: underline;
+}
+
 .header__menu {
   padding: 0 1rem;
 }
