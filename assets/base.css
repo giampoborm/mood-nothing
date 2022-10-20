@@ -954,7 +954,7 @@ summary::-webkit-details-marker {
   }
 
   .title-wrapper-with-link {
-    align-items: left;
+    align-items: center;
   }
 
   .title-wrapper-with-link .title {
@@ -2295,7 +2295,7 @@ input[type="checkbox"] {
   }
 
   .header--middle-left {
-    grid-template-areas: "navigation heading icons";
+    grid-template-areas: "heading navigation icons";
     grid-template-columns: auto auto 1fr;
     column-gap: 2rem;
   }
@@ -2634,7 +2634,7 @@ details[open] > .header__submenu {
 .header__inline-menu {
   margin-left: -1.2rem;
   grid-area: navigation;
-  display: inline;
+  display: none;
 }
 
 .header--top-center .header__inline-menu,
