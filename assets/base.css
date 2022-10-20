@@ -729,13 +729,13 @@ details > * {
   --duration-long: 500ms;
 }
 
-.underlined-link,
+/* .underlined-link,
 .customer a {
   color: rgba(var(--color-link), var(--alpha-link));
   text-underline-offset: 0.3rem;
   text-decoration-thickness: 0.1rem;
   transition: text-decoration-thickness ease 100ms;
-}
+} */
 
 /* .underlined-link:hover,
 .customer a:hover {
