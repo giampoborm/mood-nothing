@@ -800,7 +800,6 @@ summary::-webkit-details-marker {
   left: 0;
   z-index: 2;
   display: block;
-  cursor: default;
   content: " ";
   background: transparent;
 }

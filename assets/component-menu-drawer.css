@@ -6,7 +6,6 @@
 .js menu-drawer > details[open]:not(.menu-opening) > summary::before {
   content: "";
   position: absolute;
-  cursor: default;
   width: 100%;
   height: calc(100vh - 100%);
   height: calc(

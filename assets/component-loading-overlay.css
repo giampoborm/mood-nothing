@@ -44,7 +44,7 @@
 }
 
 @media screen and (forced-colors: active) {
-  .path{
+  .path {
     stroke: CanvasText;
   }
 }
@@ -70,5 +70,4 @@
 
 .loading-overlay:not(.hidden) ~ cart-remove-button {
   pointer-events: none;
-  cursor: default;
 }
