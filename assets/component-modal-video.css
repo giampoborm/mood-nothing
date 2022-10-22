@@ -35,7 +35,7 @@
   border-radius: 50%;
   border: 0.1rem solid rgba(var(--color-foreground), 0.1);
   color: rgba(var(--color-foreground), 0.55);
-  cursor: pointer;
+  cursor: url(./32.png), auto;
   display: flex;
   justify-content: center;
   margin: 0 0 0 auto;

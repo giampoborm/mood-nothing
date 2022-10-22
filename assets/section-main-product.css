@@ -222,7 +222,7 @@ fieldset.product-form__input .form__label {
   line-height: 1;
   text-align: center;
   transition: border var(--duration-short) ease;
-  cursor: pointer;
+  cursor: url(./32.png), auto;
   position: relative;
 }
 
@@ -748,7 +748,7 @@ h1 {
 
 .product__media-toggle::after {
   content: "";
-  cursor: pointer;
+  cursor: url(./32.png), auto;
   display: block;
   margin: 0;
   padding: 0;
@@ -883,7 +883,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
+  cursor: url(./32.png), auto;
   right: 2rem;
   padding: 1.2rem;
   position: fixed;
@@ -1082,7 +1082,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
+  cursor: url(./32.png), auto;
   position: sticky;
   padding: 1.2rem;
   z-index: 2;
@@ -1218,7 +1218,7 @@ h1 {
   width: 100%;
   padding: 0;
   color: rgb(var(--color-base-text));
-  cursor: pointer;
+  cursor: url(./32.png), auto;
   background-color: transparent;
 }
 

@@ -4,7 +4,7 @@
 
 .disclosure__button {
   align-items: center;
-  cursor: pointer;
+  cursor: url(./32.png), auto;
   display: flex;
   height: 4rem;
   padding: 0 1.5rem 0 1.5rem;
@@ -23,7 +23,9 @@
   z-index: 2;
   background-color: rgb(var(--color-background));
   border-radius: var(--popup-corner-radius);
-  box-shadow: var(--popup-shadow-horizontal-offset) var(--popup-shadow-vertical-offset) var(--popup-shadow-blur-radius) rgba(var(--color-shadow), var(--popup-shadow-opacity));
+  box-shadow: var(--popup-shadow-horizontal-offset)
+    var(--popup-shadow-vertical-offset) var(--popup-shadow-blur-radius)
+    rgba(var(--color-shadow), var(--popup-shadow-opacity));
 }
 
 .disclosure__list {
