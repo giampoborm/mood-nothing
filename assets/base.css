@@ -10,6 +10,10 @@ body {
   cursor: url(./32.png), auto;
 }
 
+a {
+  cursor: url(./32.png), auto;
+}
+
 /* Color custom properties */
 
 :root,
@@ -169,6 +173,7 @@ body {
 
 .product-card-wrapper .card,
 .contains-card--product {
+  cursor: url(./32.png), auto;
   --border-radius: var(--product-card-corner-radius);
   --border-width: var(--product-card-border-width);
   --border-opacity: var(--product-card-border-opacity);
