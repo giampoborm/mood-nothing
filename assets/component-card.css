@@ -1,4 +1,5 @@
 .card-wrapper {
+  cursor: url(./32.png), auto; /* modifica */
   color: inherit;
   height: 100%;
   position: relative;

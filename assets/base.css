@@ -2191,7 +2191,7 @@ input[type="checkbox"] {
 }
 
 .media-modal .deferred-media {
-  cursor: initial;
+  cursor: url(./32.png), auto; /* modificato */
 }
 
 /* component-cart-count-bubble */
