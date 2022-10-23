@@ -6,6 +6,10 @@ body {
   border: 4px solid fuchsia;
 }
 
+.grid-item {
+  cursor: url(./32.png), auto;
+}
+
 /* Color custom properties */
 
 :root,
