@@ -187,7 +187,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "6406956604159796213": {
+        "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
