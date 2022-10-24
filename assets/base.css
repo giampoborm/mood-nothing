@@ -1,5 +1,6 @@
 body {
   cursor: url(./cursore.png), auto;
+  text-transform: lowercase;
 }
 
 body {
