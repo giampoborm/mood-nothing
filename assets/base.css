@@ -11,6 +11,11 @@ body {
   cursor: url(./32.png), auto;
 }
 
+.edt {
+  font-size: 3rem;
+  text-align: left;
+}
+
 a {
   cursor: url(./32.png), auto;
 }
