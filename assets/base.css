@@ -322,6 +322,10 @@ html.no-js .no-js-hidden {
   }
 }
 
+element.style {
+  padding: 0px 0px;
+}
+
 .element-margin-top {
   margin-top: 5rem;
 }
