@@ -1,34 +1,8 @@
 {
   "sections": {
-    "7de3b9b8-91e0-4e10-af4f-25b554d77271": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "broke-boys",
-        "products_to_show": 2,
-        "columns_desktop": 1,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -53,10 +27,24 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a09d9f7a-7b11-4280-ac82-e6538335288e": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/goku_mitragliatore.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=dDu8Sz8SIhI&ab_channel=AssociatedPress",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "7de3b9b8-91e0-4e10-af4f-25b554d77271",
-    "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669"
+    "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669",
+    "a09d9f7a-7b11-4280-ac82-e6538335288e"
   ]
 }
