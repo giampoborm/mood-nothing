@@ -28,6 +28,62 @@
         "padding_bottom": 36
       }
     },
+    "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc": {
+      "type": "multicolumn",
+      "blocks": {
+        "a3217dbb-fa8a-4dc0-aed7-1ba45663498d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/goku_mirror.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "aae82d76-e07b-4219-bd2c-af86c2da850b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/goku_mirror.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "190954f7-163a-4aa0-bb28-b346a52057a1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/goku_mirror.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a3217dbb-fa8a-4dc0-aed7-1ba45663498d",
+        "aae82d76-e07b-4219-bd2c-af86c2da850b",
+        "190954f7-163a-4aa0-bb28-b346a52057a1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "a09d9f7a-7b11-4280-ac82-e6538335288e": {
       "type": "video",
       "settings": {
@@ -45,6 +101,7 @@
   },
   "order": [
     "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669",
+    "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc",
     "a09d9f7a-7b11-4280-ac82-e6538335288e"
   ]
 }
