@@ -34,6 +34,7 @@
         "a3217dbb-fa8a-4dc0-aed7-1ba45663498d": {
           "type": "column",
           "settings": {
+            "image_link": "shopify:\/\/products\/real-men-tee",
             "image": "shopify:\/\/shop_images\/goku_mirror.jpg",
             "title": "",
             "text": "",
@@ -44,6 +45,7 @@
         "aae82d76-e07b-4219-bd2c-af86c2da850b": {
           "type": "column",
           "settings": {
+            "image_link": "shopify:\/\/products\/cat-calling-tee",
             "image": "shopify:\/\/shop_images\/goku_mirror.jpg",
             "title": "",
             "text": "",
@@ -54,6 +56,7 @@
         "190954f7-163a-4aa0-bb28-b346a52057a1": {
           "type": "column",
           "settings": {
+            "image_link": "shopify:\/\/products\/unemployed-tee",
             "image": "shopify:\/\/shop_images\/goku_mirror.jpg",
             "title": "",
             "text": "",
