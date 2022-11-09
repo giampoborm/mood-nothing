@@ -62,7 +62,7 @@
                   {% assign spaced_image = true %}
                 {% endif %}
                 {%- if block.settings.link != blank -%}
-                  <a class="link animate-arrow" {% if block.settings.link == blank %}role="link" aria-disabled="true"{% else %}href="{{ block.settings.link }}"{% endif %}>{{ block.settings.link_label | escape }}<span class="icon-wrap">&nbsp;{% render 'icon-arrow' %}</span></a>
+                  <a class="link">{{ block.settings.image }}</a>
                 {%- endif -%}
                 <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width{% if section.settings.image_width != 'full' or spaced_image %} multicolumn-card-spacing{% endif %}">
                   <div class="media media--transparent media--{{ section.settings.image_ratio }}"
