@@ -6,9 +6,9 @@
         "fe1ec9b6-f585-4def-a2c6-dcf3912339e2": {
           "type": "column",
           "settings": {
-            "image_link": "",
+            "image_link": "shopify:\/\/collections\/all",
             "image": "shopify:\/\/shop_images\/piedi.png",
-            "title": "how cool feet! not for sale,",
+            "title": "damn, free feet? not rly :\/",
             "text": "",
             "link_label": "",
             "link": ""
@@ -17,9 +17,9 @@
         "76a20ccc-9c5f-4006-aac3-487570db88fc": {
           "type": "column",
           "settings": {
-            "image_link": "",
+            "image_link": "shopify:\/\/products\/not-funny-tee",
             "image": "shopify:\/\/shop_images\/corpo.png",
-            "title": "only tshirt at the moment...",
+            "title": "only tees at the moment...",
             "text": "",
             "link_label": "",
             "link": ""
