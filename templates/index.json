@@ -87,20 +87,6 @@
         "padding_bottom": 36
       }
     },
-    "a09d9f7a-7b11-4280-ac82-e6538335288e": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/goku_mitragliatore.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=dDu8Sz8SIhI&ab_channel=AssociatedPress",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "2d7c6e10-1169-44c2-ab45-57f5c7b610b6": {
       "type": "multicolumn",
       "blocks": {
@@ -164,7 +150,6 @@
   "order": [
     "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669",
     "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc",
-    "a09d9f7a-7b11-4280-ac82-e6538335288e",
     "2d7c6e10-1169-44c2-ab45-57f5c7b610b6"
   ]
 }
