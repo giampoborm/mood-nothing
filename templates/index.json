@@ -59,33 +59,6 @@
         "padding_bottom": 0
       }
     },
-    "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "broke-boys",
-        "products_to_show": 4,
-        "columns_desktop": 2,
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc": {
       "type": "multicolumn",
       "blocks": {
@@ -144,11 +117,38 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "broke-boys",
+        "products_to_show": 4,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "2d7c6e10-1169-44c2-ab45-57f5c7b610b6",
-    "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669",
-    "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc"
+    "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc",
+    "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669"
   ]
 }
