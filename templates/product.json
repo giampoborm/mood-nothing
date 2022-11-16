@@ -77,6 +77,7 @@
         "column-0": {
           "type": "column",
           "settings": {
+            "image_link": "",
             "title": "description? maybe",
             "text": "<p>hey i think you're pretty and cute and i love your smile wanna hang out sometimes you dumb fuck<\/p>",
             "link_label": "",
@@ -86,8 +87,9 @@
         "column-1": {
           "type": "column",
           "settings": {
+            "image_link": "",
             "title": "no  babyyyyy i was joking",
-            "text": "<p>shipping and other boring stuff are on the faqsssss down there but here you are my beautiful lazy sweetheart: 100% cotton, true to size, swag drip etc, almost worldwide shipping blablbalbal we also got labels more or less that's like wow real shit nah? idk please buy something and dm us, you can say hi you can say fuck you idk look we're lost people in this crazy beautiful lovely world<\/p>",
+            "text": "<p>well shipping and other stuff are in the <a href=\"\/pages\/faqs\" title=\"(i want to) FAQ (u)\">faqs<\/a>. what can i tell you? there are t-shirts. 100% cotton, the sizing is really normal. like if you go on the homepage and around our socials you'll see mattia, our best boy, wearing Small (cat calling), medium (unemployed) and large (real men). he's 183 cm tall, you can see how the S was squeezing him a lot while the M was a bit less tight and the l was the right size for him. so yeah normal sizes i guess?<\/p>",
             "link_label": "",
             "link": ""
           }
