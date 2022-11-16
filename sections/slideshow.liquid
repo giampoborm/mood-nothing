@@ -81,7 +81,7 @@
           opacity: {{ block.settings.image_overlay_opacity | divided_by: 100.0 }};
         }
       </style>
-      <a href="{{ block.settings.image_link }}"><div class="slideshow__slide grid__item grid--1-col slider__slide"
+      <div class="slideshow__slide grid__item grid--1-col slider__slide"
         id="Slide-{{ section.id }}-{{ forloop.index }}"
         {{ block.shopify_attributes }}
         role="group"
@@ -119,7 +119,7 @@
             {%- endif -%}
           </div>
         </div>
-      </div></a>
+      </div>
     {%- endfor -%}
   </div>
 
