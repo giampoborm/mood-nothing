@@ -123,6 +123,20 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "bf6c5d11-476a-4040-aad0-95febeb56470": {
+            "type": "announcement",
+            "settings": {
+              "text": "2+ tees = free shipping",
+              "text_alignment": "center",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "bf6c5d11-476a-4040-aad0-95febeb56470"
+        ],
         "settings": {
         }
       },
