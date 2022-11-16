@@ -1,8 +1,66 @@
 {
   "sections": {
+    "2d7c6e10-1169-44c2-ab45-57f5c7b610b6": {
+      "type": "multicolumn",
+      "blocks": {
+        "fe1ec9b6-f585-4def-a2c6-dcf3912339e2": {
+          "type": "column",
+          "settings": {
+            "image_link": "",
+            "image": "shopify:\/\/shop_images\/piedi.png",
+            "title": "how cool feet! not for sale,",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "76a20ccc-9c5f-4006-aac3-487570db88fc": {
+          "type": "column",
+          "settings": {
+            "image_link": "",
+            "image": "shopify:\/\/shop_images\/corpo.png",
+            "title": "only tshirt at the moment...",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c38e72c7-d7cb-45f2-8fbc-9874408ca380": {
+          "type": "column",
+          "settings": {
+            "image_link": "",
+            "image": "shopify:\/\/shop_images\/volto.png",
+            "title": "maybe next time! ;)",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "fe1ec9b6-f585-4def-a2c6-dcf3912339e2",
+        "76a20ccc-9c5f-4006-aac3-487570db88fc",
+        "c38e72c7-d7cb-45f2-8fbc-9874408ca380"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -31,22 +89,11 @@
     "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc": {
       "type": "multicolumn",
       "blocks": {
-        "a3217dbb-fa8a-4dc0-aed7-1ba45663498d": {
-          "type": "column",
-          "settings": {
-            "image_link": "shopify:\/\/products\/real-men-tee",
-            "image": "shopify:\/\/shop_images\/fff.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/cat-calling-tee"
-          }
-        },
         "aae82d76-e07b-4219-bd2c-af86c2da850b": {
           "type": "column",
           "settings": {
             "image_link": "shopify:\/\/products\/cat-calling-tee",
-            "image": "shopify:\/\/shop_images\/fff.png",
+            "image": "shopify:\/\/shop_images\/real_man_frontale_1967eb9e-a2c7-4d7a-a853-65ca26b03e7e.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -57,18 +104,29 @@
           "type": "column",
           "settings": {
             "image_link": "shopify:\/\/products\/unemployed-tee",
-            "image": "shopify:\/\/shop_images\/fff.png",
+            "image": "shopify:\/\/shop_images\/catcalling_frontale.png",
             "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/products\/real-men-tee"
           }
+        },
+        "2dbb8d0d-427b-4905-a66b-2699a868029b": {
+          "type": "column",
+          "settings": {
+            "image_link": "",
+            "image": "shopify:\/\/shop_images\/unemplyed_in_piedi_f8951350-ed05-4234-863c-3a114b750a5b.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "a3217dbb-fa8a-4dc0-aed7-1ba45663498d",
         "aae82d76-e07b-4219-bd2c-af86c2da850b",
-        "190954f7-163a-4aa0-bb28-b346a52057a1"
+        "190954f7-163a-4aa0-bb28-b346a52057a1",
+        "2dbb8d0d-427b-4905-a66b-2699a868029b"
       ],
       "settings": {
         "title": "",
@@ -76,7 +134,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -86,70 +144,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "2d7c6e10-1169-44c2-ab45-57f5c7b610b6": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--15699154895163__2d7c6e10-1169-44c2-ab45-57f5c7b610b6-1668594252697acdb6-0": {
-          "type": "column",
-          "settings": {
-            "image_link": "",
-            "image": "shopify:\/\/shop_images\/piedi.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15699154895163__2d7c6e10-1169-44c2-ab45-57f5c7b610b6-1668594252697acdb6-1": {
-          "type": "column",
-          "settings": {
-            "image_link": "",
-            "image": "shopify:\/\/shop_images\/corpo.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--15699154895163__2d7c6e10-1169-44c2-ab45-57f5c7b610b6-1668594252697acdb6-2": {
-          "type": "column",
-          "settings": {
-            "image_link": "",
-            "image": "shopify:\/\/shop_images\/volto.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--15699154895163__2d7c6e10-1169-44c2-ab45-57f5c7b610b6-1668594252697acdb6-0",
-        "template--15699154895163__2d7c6e10-1169-44c2-ab45-57f5c7b610b6-1668594252697acdb6-1",
-        "template--15699154895163__2d7c6e10-1169-44c2-ab45-57f5c7b610b6-1668594252697acdb6-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
+    "2d7c6e10-1169-44c2-ab45-57f5c7b610b6",
     "f8e3a55d-d5c9-4fad-a5a6-017e5a06b669",
-    "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc",
-    "2d7c6e10-1169-44c2-ab45-57f5c7b610b6"
+    "fa034c2c-4f0e-4a4b-a35d-88a572ca92dc"
   ]
 }
