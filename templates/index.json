@@ -124,11 +124,12 @@
         "template--15699154895163__57f7e6fa-8868-48ec-bde8-fa68b3cbf732-1668611956193b6e8c-0": {
           "type": "slide",
           "settings": {
+            "image_link": "shopify:\/\/products\/wise-tree-tee",
             "image": "shopify:\/\/shop_images\/dua_lipa_wise_tree.jpg",
-            "heading": "Image slide",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -142,6 +143,7 @@
         "template--15699154895163__57f7e6fa-8868-48ec-bde8-fa68b3cbf732-1668611956193b6e8c-1": {
           "type": "slide",
           "settings": {
+            "image_link": "",
             "image": "shopify:\/\/shop_images\/west_real_talk.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
@@ -160,6 +162,7 @@
         "d0d8e694-5ac1-4717-8319-0cc096b24cbb": {
           "type": "slide",
           "settings": {
+            "image_link": "",
             "image": "shopify:\/\/shop_images\/timothee.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
@@ -178,6 +181,7 @@
         "34336465-2bf9-47f5-a517-8f6337bb8947": {
           "type": "slide",
           "settings": {
+            "image_link": "",
             "image": "shopify:\/\/shop_images\/justin_cool_kid.jpg",
             "heading": "",
             "heading_size": "h1",
@@ -196,6 +200,7 @@
         "2f4e7eb1-98ae-47d1-9c38-ecc14366116e": {
           "type": "slide",
           "settings": {
+            "image_link": "",
             "image": "shopify:\/\/shop_images\/dakota_body_fluid.jpg",
             "heading": "",
             "heading_size": "h1",
