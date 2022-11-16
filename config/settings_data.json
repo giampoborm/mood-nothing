@@ -145,7 +145,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/logo_s.png",
-          "logo_width": 130,
+          "logo_width": 140,
           "logo_position": "top-center",
           "menu": "cacata",
           "menu_type_desktop": "dropdown",
